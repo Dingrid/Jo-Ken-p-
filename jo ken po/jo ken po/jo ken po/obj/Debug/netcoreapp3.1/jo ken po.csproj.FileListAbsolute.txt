@@ -1,0 +1,17 @@
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\bin\Debug\netcoreapp3.1\jo ken po.exe
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\bin\Debug\netcoreapp3.1\jo ken po.deps.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\bin\Debug\netcoreapp3.1\jo ken po.runtimeconfig.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\bin\Debug\netcoreapp3.1\jo ken po.runtimeconfig.dev.json
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\bin\Debug\netcoreapp3.1\jo ken po.dll
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\bin\Debug\netcoreapp3.1\jo ken po.pdb
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\obj\Debug\netcoreapp3.1\jo ken po.csproj.AssemblyReference.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\obj\Debug\netcoreapp3.1\jo_ken_po.Form1.resources
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\obj\Debug\netcoreapp3.1\jo_ken_po.Properties.Resources.resources
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\obj\Debug\netcoreapp3.1\jo ken po.csproj.GenerateResource.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\obj\Debug\netcoreapp3.1\jo ken po.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\obj\Debug\netcoreapp3.1\jo ken po.AssemblyInfoInputs.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\obj\Debug\netcoreapp3.1\jo ken po.AssemblyInfo.cs
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\obj\Debug\netcoreapp3.1\jo ken po.csproj.CoreCompileInputs.cache
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\obj\Debug\netcoreapp3.1\jo ken po.dll
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\obj\Debug\netcoreapp3.1\jo ken po.pdb
+C:\Users\isaso\Documents\Ingrid\FATEC SP\4 sem\ILP580\jo ken po\jo ken po\jo ken po\obj\Debug\netcoreapp3.1\jo ken po.genruntimeconfig.cache
