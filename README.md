@@ -11,3 +11,4 @@ O jogo consiste em dois jogadores: o usuário e a CPU. A cada rodada o usuário 
 - O vencedor é quem fizer 20 pontos primeiro.
 
 ## Imagens
+![print](https://user-images.githubusercontent.com/50678427/141701554-08b6667b-f3a7-4a5f-ab33-4c257a2aebe5.jpg)
